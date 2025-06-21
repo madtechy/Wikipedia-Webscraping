@@ -11,4 +11,4 @@ Scraped the world population table from Wikipedia using Python in VS Code.
 Wikipedia: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 
 ## 🧪 Output
-Parsed the table and converted to structured tabular format (DataFrame), and saved to CSV.
+Parsed the table and converted to structured tabular format (DataFrame).
